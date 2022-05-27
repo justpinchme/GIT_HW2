@@ -1,0 +1,5 @@
+Summary: Отсутствует логотип на главной странице сайта
+Actual result: В левом верхнем углу вместо логотипа - пусто
+Expected result: В левом верхнем углу отображается логотип
+Severity: Minor
+Priority: Normal
